@@ -4,6 +4,7 @@ body{
     text-align: center;
     font-family: 'Boogaloo', cursive;
     margin-bottom:0%;
+    overflow-x: hidden;
     }
 h1{
     font-size: 5.625rem;
