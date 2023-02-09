@@ -45,9 +45,9 @@ a{
     top: 40px;
     right: 300px;
 }
-.bottom-cloud{
+.bottom-cloud.top-container{
     position: absolute;
-    
+    bottom: 100px;
     left: 250px;
     
 }
