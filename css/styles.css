@@ -52,7 +52,8 @@ a{
     bottom: 300px;
 }
 .mount{ 
-    
+    width: auto;
+  height: auto;
 }
 .image-com{
     width: 25%;
