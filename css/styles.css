@@ -47,8 +47,8 @@ a{
 }
 .bottom-cloud{
     position: absolute;
-    bottom:300px;
-    left: 250px;
+     top: 400px;
+    left: 200px;
     
 }
 .image-com{
