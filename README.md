@@ -31,6 +31,3 @@ Feel free to personalize the website according to your own preferences and requi
 
 The website is designed to be compatible with modern web browsers. It utilizes responsive design techniques to ensure proper rendering on different devices and screen sizes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the portfolio website for personal or commercial purposes. Attribution is not required but appreciated.
